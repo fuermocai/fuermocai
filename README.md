@@ -1,8 +1,5 @@
 <!-- 头部欢迎信息 -->
 <h1 align="center">你好，我是福尔摩才！👋</h1>
-<p align="center">
-  <img src="你的头像图片链接" width="150px">
-</p>
 <h3 align="center">欢迎来到我的GitHub主页！✨</h3>
 
 <!-- 个人信息 -->
